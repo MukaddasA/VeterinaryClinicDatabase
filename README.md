@@ -12,7 +12,7 @@ This project is a database for managing a veterinary clinic's data. It allows yo
 - [📝 Usage](#-usage)
 - [👨‍💼 Author](#-author)
 - [🤝 Contributing](#-contributing)
-- [⭐️ Support](#-support)
+- [⭐️ Support](#%EF%B8%8F-support)
 - [📄 License](#-license)
 
 
