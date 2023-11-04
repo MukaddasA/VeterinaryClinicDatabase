@@ -5,15 +5,15 @@ This project is a database for managing a veterinary clinic's data. It allows yo
 ## Table of Contents
 
 - [📜 Introduction](#-introduction)
-- [🛠️ Built with](#built-with)
-- [🧰 Database Features](#database-features)
-- [📊 Database Schema](#database-schema)
-- [🚀 Installation](#installation)
-- [📝 Usage](#usage)
-- [👨‍💼 Author](#author)
-- [🤝 Contributing](#contributing)
-- [⭐️ Support](#support)
-- [📄 License](#license)
+- [🛠️ Built with](#-built-with)
+- [🧰 Database Features](#-database-features)
+- [📊 Database Schema](#-database-schema)
+- [🚀 Installation](#-installation)
+- [📝 Usage](#-usage)
+- [👨‍💼 Author](#-author)
+- [🤝 Contributing](#-contributing)
+- [⭐️ Support](#-support)
+- [📄 License](#-license)
 
 
   
