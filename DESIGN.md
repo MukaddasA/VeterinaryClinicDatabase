@@ -166,7 +166,7 @@ The `receipts` table includes:
 
 The below entity relationship diagram describes the relationships among the entities in the database.
 
-![VeterinaryClinic_DB](VeterinaryClinic_DB.png)
+![VeterinaryClinic_DB](https://github.com/MukaddasA/VeterinaryClinicDatabase/blob/main/img/VeterinaryClinic_DB.png)
 
 As detailed in the diagram:
 
