@@ -4,7 +4,7 @@ This project is a database for managing a veterinary clinic's data. It allows yo
 
 ## Table of Contents
 
-- [📜 Introduction](#introduction)
+- [📜 Introduction](#-introduction)
 - [🛠️ Built with](#built-with)
 - [🧰 Database Features](#database-features)
 - [📊 Database Schema](#database-schema)
